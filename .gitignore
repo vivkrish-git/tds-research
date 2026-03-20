@@ -45,6 +45,7 @@ coverage.xml
 htmlcov/
 
 # Data files
+data/
 *.csv
 *.xlsx
 *.xls
